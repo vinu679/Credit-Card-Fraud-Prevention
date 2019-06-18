@@ -3,7 +3,6 @@
 
 2.code deploy into heroku by using commands
 
-******************************************************************
 
 Install the Heroku CLI
 
@@ -28,7 +27,6 @@ $ git add .
 $ git commit -am "make it better"
 $ git push heroku master
 
-**************************************************************************
 3. if it run in localhost:5000 or http://127.0.0.1:5000/
 	open cmd prompt run that a.py file 
 
